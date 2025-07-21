@@ -15,39 +15,17 @@
 ## Connect with me:
 ## Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40">](mailto:your.email@example.com)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webcomponentsdotorg.svg" alt="Portfolio" height="40">](https://your-portfolio.com)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40">](https://linkedin.com/in/your-profile)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40">](https://leetcode.com/your-profile)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40">](https://github.com/your-username)
 
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:your.email@example.com)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
 [<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://linkedin.com/in/your-profile)
-[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/your-profile)
-[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/your-username)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/vishnu-jillala-3647972b5)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/u/awF0BgtB6E/)
+[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/code-with-vishnu26?tab=repositories)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
-<p align="center">
-  <a href="mailto:jillalavishnu0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishnu-jillala-3647972b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/code-with-vishnu26" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/awF0BgtB6E/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-    <a href="https://yourportfolio.link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
 ---
 
