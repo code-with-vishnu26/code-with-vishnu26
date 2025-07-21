@@ -12,10 +12,6 @@
 ---
 ### 📬 Social 
 
-## Connect with me:
-## Connect with me:
-
-
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
 [<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/vishnu-jillala-3647972b5)
