@@ -113,7 +113,18 @@
 - 📁 Portfolio: [My Portfolio](https://yourportfolio.link)
 - 📄 Resume: [View Resume](https://linktoresume.pdf)
 
+### 🔥 GitHub Stats and Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-vishnu26&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-with-vishnu26&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-vishnu26&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
+</p>
+
+---
 ---
 <!--
 **code-with-vishnu26/code-with-vishnu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
