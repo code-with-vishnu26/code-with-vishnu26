@@ -12,6 +12,8 @@
 ---
 ### 📬 Social
 
+### 📬 How to reach me
+
 <p align="center">
   <a href="mailto:jillalavishnu0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -22,7 +24,11 @@
   <a href="https://github.com/code-with-vishnu26" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/u/awF0BgtB6E/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
+
 
 ---
 ### 🔥 GitHub Stats
