@@ -10,9 +10,10 @@
 - 🛠️ Hands-on with **AI/ML**, Full-stack development, and secure web solutions
 
 ---
-### 📬 Social
-
-### 📬 How to reach me
+### 📬 Social 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
+</p>
 
 <p align="center">
   <a href="mailto:jillalavishnu0@gmail.com" target="_blank">
@@ -31,16 +32,6 @@
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
-
----
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-vishnu26&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-vishnu26&layout=compact&theme=tokyonight&langs_count=8&hide=scss,less&custom_title=Most%20Used%20Languages&hide_border=true&card_width=400" alt="Top Languages" />
-</p>
-
 
 ---
 
@@ -129,9 +120,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-vishnu26&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
-</p>
 
 ---
 ---
