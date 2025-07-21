@@ -10,7 +10,7 @@
 - 🛠️ Hands-on with **AI/ML**, Full-stack development, and secure web solutions
 
 ---
-### 📬 How to reach me
+### 📬 Social
 
 <p align="center">
   <a href="mailto:jillalavishnu0@gmail.com" target="_blank">
