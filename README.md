@@ -11,6 +11,15 @@
 
 ---
 ### 📬 Social 
+
+## Connect with me:
+
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:your.email@example.com)
+[<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://linkedin.com/in/your-profile)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/your-profile)
+[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/your-username)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 </p>
