@@ -13,6 +13,13 @@
 ### 📬 Social 
 
 ## Connect with me:
+## Connect with me:
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40">](mailto:your.email@example.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webcomponentsdotorg.svg" alt="Portfolio" height="40">](https://your-portfolio.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40">](https://linkedin.com/in/your-profile)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40">](https://leetcode.com/your-profile)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40">](https://github.com/your-username)
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:your.email@example.com)
 [<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
