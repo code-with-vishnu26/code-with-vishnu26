@@ -55,71 +55,53 @@
 
 
 ---
-![AI](https://img.shields.io/badge/AI%20&%20ML-Computer%20Vision-blueviolet)
-![IoT](https://img.shields.io/badge/IoT-ESP32-orange)
-![Web](https://img.shields.io/badge/Web--Dev-React%20%7C%20Vite-blue)
-![Cyber](https://img.shields.io/badge/Cybersecurity-End%20to%20End%20Encryption-red)
-![3D](https://img.shields.io/badge/Immersive-Tech-pink)
 
----
 # 🌟 Professional Focus Areas
 
-### 🔘 Narendar Busa
 
 ---
+```mermaid
+graph TD
+    A[Narendar Busa] --> B[AI & Machine Learning]
+    B --> B1[Data Analysis]
+    B --> B2[Computer Vision]
+    B --> B3[Deep Learning]
+    B --> B4[Natural Language Processing]
 
-### 🟤 AI & Machine Learning
-- 🔸 **Data Analysis**
-- 🔸 **Computer Vision**
-- 🔸 **Deep Learning**
-- 🔸 **Natural Language Processing**
+    A --> C[IoT & Embedded Systems]
+    C --> C1[ESP32 Microcontroller]
+    C --> C2[Wi-Fi Direct]
+    C --> C3[ESP-NOW / ESP-MESH]
+    C --> C4[Encrypted Flash]
 
----
+    A --> D[Web Development]
+    D --> D1[React / Vite / Next.js]
+    D --> D2[MongoDB & Redis]
+    D --> D3[Authentication & Authorization]
+    D --> D4[REST APIs]
 
-### 🟣 IoT & Embedded Systems
-- 🔹 **ESP32 Microcontroller**
-- 🔹 **Wi-Fi Direct**
-- 🔹 **ESP-NOW / ESP-MESH**
-- 🔹 **Encrypted Flash**
+    A --> E[Cybersecurity]
+    E --> E1[End-to-End Encryption]
+    E --> E2[MAC Filtering]
+    E --> E3[Time-limited Sessions]
+    E --> E4[No Persistent Logs]
 
----
+    A --> F[3D Web & Immersive Tech]
+    F --> F1[Three.js]
+    F --> F2[VR/AR Interaction]
+    F --> F3[Simulation Systems]
+    F --> F4[React Three Fiber]
 
-### 🔵 Web Development
-- ⚛️ **React / Vite / Next.js**
-- 🧩 **MongoDB & Redis**
-- 🔐 **Authentication & Authorization**
-- 🌐 **REST APIs**
+    A --> G[Lead Management Systems]
+    G --> G1[OCR + LLM Integration]
+    G --> G2[React Flow Workflow Builder]
+    G --> G3[Dashboard + Analytics]
+    G --> G4[Secure File Sharing]
 
----
-
-### 🔴 Cybersecurity
-- 🔒 **End-to-End Encryption**
-- 📡 **MAC Filtering**
-- 🕓 **Time-limited Sessions**
-- 📁 **No Persistent Logs**
-
----
-
-### 🟣 3D Web & Immersive Tech
-- 🌌 **Three.js**
-- 🧠 **VR/AR Interaction**
-- 🕹️ **Simulation Systems**
-- 🌐 **React Three Fiber**
-
----
-
-### 📦 Lead Management Systems
-- 🧾 **OCR + LLM Integration**
-- 🔧 **React Flow Workflow Builder**
-- 📊 **Dashboard + Analytics**
-- 📤 **Secure File Sharing**
-
----
-
-### 🧪 Currently Exploring
-- ⚙️ **Edge AI on ESP32**
-- 📡 **Offline-first Messaging**
-- 🌍 **Decentralized File Transfer**
+    A --> H[Currently Exploring]
+    H --> H1[Edge AI on ESP32]
+    H --> H2[Offline-first Messaging]
+    H --> H3[Decentralized File Transfer]
 
 ---
 
