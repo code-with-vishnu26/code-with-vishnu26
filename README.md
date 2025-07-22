@@ -10,6 +10,7 @@
 - 🛠️ Hands-on with **AI/ML**, Full-stack development, and secure web solutions
 
 ---
+
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 
@@ -24,6 +25,7 @@ Every challenge pushes me further — from building 3D e-commerce sites to deplo
 🚀 The journey’s just beginning — and I’m ready for what’s next.
 
 </details>
+
 ---
 
 ### 🧰 Languages and Tools
