@@ -188,11 +188,6 @@ mindmap
 <p align="center">
   <!-- Live Visitor Count Badge -->
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <!-- Views -->
-  <img src="https://img.shields.io/badge/👁️%20Views-159-ffd700?style=for-the-badge" alt="Views"/>
 
   <!-- Stars -->
   <img src="https://img.shields.io/badge/⭐%20Stars-27-32cd32?style=for-the-badge" alt="Stars"/>
