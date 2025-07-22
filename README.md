@@ -10,6 +10,21 @@
 - 🛠️ Hands-on with **AI/ML**, Full-stack development, and secure web solutions
 
 ---
+<details>
+<summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+I started my coding journey as a curious learner with a strong interest in how technology could solve real-world problems. From tinkering with code to building full-stack applications, I slowly shaped my path into becoming a developer who thrives on innovation and hands-on implementation.
+
+While exploring web development using React, Node.js, and Python, I also got deeply involved in AI/ML and IoT. One of my most exciting projects is developing a **Wi-Fi Direct USB device using ESP32**, enabling **offline, encrypted, one-to-one communication** with **mesh networking**. It's more than just a device — it's a step toward creating secure, decentralized, peer-to-peer networks.
+
+Along the way, I’ve worked on impactful projects like a **Mini-CRM system at PCGroup.ai**, involving OCR, lead pipelines, AI workflows, and seamless UI/UX using React Flow and Tailwind.
+
+Every challenge pushes me further — from building 3D e-commerce sites to deploying microservices with Docker and Redis. Whether it’s full-stack development, real-time data handling, or system security, I believe in constantly learning and delivering solutions that matter.
+
+🚀 The journey’s just beginning — and I’m ready for what’s next.
+
+</details>
+---
 
 ### 🧰 Languages and Tools
 
