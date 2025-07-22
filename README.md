@@ -10,20 +10,6 @@
 - 🛠️ Hands-on with **AI/ML**, Full-stack development, and secure web solutions
 
 ---
-### 📬 Social 
-
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
-[<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/vishnu-jillala)
-[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/u/awF0BgtB6E/)
-[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/code-with-vishnu26?tab=repositories)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
-</p>
-
-
----
 
 
 ### 🧰 Tech Stack
@@ -58,50 +44,48 @@
 
 # 🌟 Professional Focus Areas
 
+<div align="center">
 
----
 ```mermaid
-graph TD
-    A[Narendar Busa] --> B[AI & Machine Learning]
-    B --> B1[Data Analysis]
-    B --> B2[Computer Vision]
-    B --> B3[Deep Learning]
-    B --> B4[Natural Language Processing]
+mindmap
+  root((Vishnu))
+    AI & Machine Learning
+      Data Analysis
+      Computer Vision
+      Deep Learning
+      Natural Language Processing
+    IoT & Embedded Systems
+      ESP32 Microcontroller
+      Wi-Fi Direct
+      ESP-NOW / ESP-MESH
+      Encrypted Flash
+    Web Development
+      React / Vite / Next.js
+      MongoDB & Redis
+      Authentication & Authorization
+      REST APIs
+    Cybersecurity
+      End-to-End Encryption
+      MAC Filtering
+      Time-limited Sessions
+      No Persistent Logs
+    3D Web & Immersive Tech
+      Three.js
+      VR/AR Interaction
+      Simulation Systems
+      React Three Fiber
+    Lead Management Systems
+      OCR + LLM Integration
+      React Flow Workflow Builder
+      Dashboard + Analytics
+      Secure File Sharing
+    Currently Exploring
+      Edge AI on ESP32
+      Offline-first Messaging
+      Decentralized File Transfer
+```
 
-    A --> C[IoT & Embedded Systems]
-    C --> C1[ESP32 Microcontroller]
-    C --> C2[Wi-Fi Direct]
-    C --> C3[ESP-NOW / ESP-MESH]
-    C --> C4[Encrypted Flash]
-
-    A --> D[Web Development]
-    D --> D1[React / Vite / Next.js]
-    D --> D2[MongoDB & Redis]
-    D --> D3[Authentication & Authorization]
-    D --> D4[REST APIs]
-
-    A --> E[Cybersecurity]
-    E --> E1[End-to-End Encryption]
-    E --> E2[MAC Filtering]
-    E --> E3[Time-limited Sessions]
-    E --> E4[No Persistent Logs]
-
-    A --> F[3D Web & Immersive Tech]
-    F --> F1[Three.js]
-    F --> F2[VR/AR Interaction]
-    F --> F3[Simulation Systems]
-    F --> F4[React Three Fiber]
-
-    A --> G[Lead Management Systems]
-    G --> G1[OCR + LLM Integration]
-    G --> G2[React Flow Workflow Builder]
-    G --> G3[Dashboard + Analytics]
-    G --> G4[Secure File Sharing]
-
-    A --> H[Currently Exploring]
-    H --> H1[Edge AI on ESP32]
-    H --> H2[Offline-first Messaging]
-    H --> H3[Decentralized File Transfer]
+</div>
 
 ---
 
@@ -160,18 +144,33 @@ graph TD
 
 
 ---
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
 ---
-<!--
+### 📬 Social 
+
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
+[<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/vishnu-jillala)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/u/awF0BgtB6E/)
+[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/code-with-vishnu26?tab=repositories)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
+</p>
+
+
+
 **code-with-vishnu26/code-with-vishnu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**code-with-vishnu26/code-with-vishnu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
