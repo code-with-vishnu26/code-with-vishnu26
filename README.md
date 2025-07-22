@@ -191,17 +191,17 @@ mindmap
 </p>
 
 <p align="center">
-  <!-- Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=VIEWS&color=gold&style=for-the-badge" alt="views"/>
+  <!-- Views -->
+  <img src="https://img.shields.io/badge/👁️%20Views-159-ffd700?style=for-the-badge" alt="Views"/>
 
-  <!-- Stars Badge -->
-  <img src="https://img.shields.io/github/stars/code-with-vishnu26?label=STARS&color=green&style=for-the-badge" alt="stars"/>
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/⭐%20Stars-27-32cd32?style=for-the-badge" alt="Stars"/>
 
-  <!-- Followers Badge -->
-  <img src="https://img.shields.io/github/followers/code-with-vishnu26?label=FOLLOW&color=blue&style=for-the-badge" alt="followers"/>
+  <!-- Followers -->
+  <img src="https://img.shields.io/badge/👥%20Followers-48-1e90ff?style=for-the-badge" alt="Followers"/>
 
-  <!-- Visitors Badge (static alternative to views, optional) -->
-  <img src="https://img.shields.io/badge/VISITORS-80K%2B-purple?style=for-the-badge" alt="visitors"/>
+  <!-- Visitors -->
+  <img src="https://img.shields.io/badge/🚀%20Visitors-82-8a2be2?style=for-the-badge" alt="Visitors"/>
 </p>
 
 
