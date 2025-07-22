@@ -54,6 +54,12 @@
 </p>
 
 
+---
+![AI](https://img.shields.io/badge/AI%20&%20ML-Computer%20Vision-blueviolet)
+![IoT](https://img.shields.io/badge/IoT-ESP32-orange)
+![Web](https://img.shields.io/badge/Web--Dev-React%20%7C%20Vite-blue)
+![Cyber](https://img.shields.io/badge/Cybersecurity-End%20to%20End%20Encryption-red)
+![3D](https://img.shields.io/badge/Immersive-Tech-pink)
 
 ---
 # 🌟 Professional Focus Areas
