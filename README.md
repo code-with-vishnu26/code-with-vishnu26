@@ -11,7 +11,6 @@
 
 ---
 
-
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -48,7 +47,7 @@
 
 ```mermaid
 mindmap
-  root((Vishnu))
+  root((TECH))
     AI & Machine Learning
       Data Analysis
       Computer Vision
@@ -150,7 +149,7 @@ mindmap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 ---
-### 📬 Social 
+## 🤝 Connect & Collaborate
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
 [<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
@@ -158,19 +157,14 @@ mindmap
 [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/u/awF0BgtB6E/)
 [<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/code-with-vishnu26?tab=repositories)
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 </p>
-
-
-
-**code-with-vishnu26/code-with-vishnu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 
 
-**code-with-vishnu26/code-with-vishnu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</div>
