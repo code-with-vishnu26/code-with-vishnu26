@@ -11,7 +11,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ---
 
-# 🌟 Professional Focus Areas
+# 🌟 Tech Field
 
 <div align="center">
 
