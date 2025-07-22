@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - 🎓 B.Tech in CSE, Woxsen University (2022–2026)
 - 🚀 Passionate about building scalable web apps and AI-integrated systems
 - 🔐 Currently exploring **ESP32 Wi-Fi Direct**, **Mesh Networking**, and **Blockchain Security**
