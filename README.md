@@ -145,24 +145,25 @@ mindmap
 ---
 </div>
 
-🤝 Connect & Collaborate
+### 🤝 Connect & Collaborate
 <p align="center">
-  <a href="mailto:jillalavishnu0@gmail.com" title="Email">
+  <a href="mailto:jillalavishnu0@gmail.com" title="Email" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40"/>
   </a>
-  <a href="https://your-portfolio.com" title="Portfolio">
+  <a href="https://your-portfolio.com" title="Portfolio" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/vishnu-jillala" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vishnu-jillala" title="LinkedIn" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/awF0BgtB6E/" title="LeetCode">
+  <a href="https://leetcode.com/u/awF0BgtB6E/" title="LeetCode" style="text-decoration: none;">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40"/>
   </a>
-  <a href="https://github.com/code-with-vishnu26?tab=repositories" title="GitHub">
+  <a href="https://github.com/code-with-vishnu26?tab=repositories" title="GitHub" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40"/>
   </a>
 </p>
+
 
 ---
 
