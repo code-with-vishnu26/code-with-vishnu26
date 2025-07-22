@@ -56,6 +56,69 @@
 
 
 ---
+# 🌟 Professional Focus Areas
+
+## 🧠 AI & Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Deep Learning
+- Data Analysis
+- OCR Integration
+- LLM-powered Interactions
+
+## 🌐 Web Development
+- Full Stack Development
+  - React / Vite / Next.js
+  - Tailwind CSS & Framer Motion
+  - Node.js & Express
+- RESTful APIs
+- Authentication & Authorization
+- Responsive UI/UX Design
+
+## 🧰 Dev Tools & Integration
+- GitHub & CI/CD
+- Docker & Containerization
+- MongoDB, Redis, PostgreSQL
+- Firebase & Cloud Functions
+
+## 📦 IoT & Embedded Systems
+- ESP32 Microcontroller
+  - Wi-Fi Direct
+  - ESP-NOW / ESP-MESH
+  - Encrypted Flash & Secure Storage
+- USB Drive as IoT Device
+  - Secure Login System
+  - Messaging + File Sharing via Mesh
+  - Auto Message Deletion on Unplug
+
+## 🛡️ Cybersecurity
+- End-to-End Encryption
+- MAC Address Filtering
+- Digital Signatures
+- Time-limited Sessions
+- No Persistent Logs
+
+## 🕹️ Immersive Web & 3D
+- Three.js + React-Three-Fiber
+- 3D Product Showcases
+- VR/AR Interaction (WebXR)
+- Simulation Systems
+
+## 📈 Lead Management Systems
+- AI-enhanced Lead Parsing
+- React Flow-based Workflow Builder
+- User Authentication & Dashboard
+- Automated Messaging + File Storage
+
+---
+
+### 👨‍💻 Currently Exploring:
+- Edge AI on ESP32
+- Offline-first Decentralized Messaging
+- Full-stack AI SaaS Products
+- Secure P2P File Transfer Architecture
+
+---
 
 ### 💼 Key Projects
 
