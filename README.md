@@ -146,12 +146,23 @@ mindmap
 </div>
 
 🤝 Connect & Collaborate
-
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
-[<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/vishnu-jillala)
-[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40">](https://leetcode.com/u/awF0BgtB6E/)
-[<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40">](https://github.com/code-with-vishnu26?tab=repositories)
+<p align="center">
+  <a href="mailto:jillalavishnu0@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40"/>
+  </a>
+  <a href="https://your-portfolio.com" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishnu-jillala" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/awF0BgtB6E/" title="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://github.com/code-with-vishnu26?tab=repositories" title="GitHub">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40"/>
+  </a>
+</p>
 
 ---
 
