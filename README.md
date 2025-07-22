@@ -145,11 +145,7 @@ mindmap
 ---
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
----
-## 🤝 Connect & Collaborate
+🤝 Connect & Collaborate
 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40">](mailto:jillalavishnu0@gmail.com)
 [<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="40">](https://your-portfolio.com)
