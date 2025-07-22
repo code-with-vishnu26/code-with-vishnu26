@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Jillala</h1>
-<h3 align="center">Aspiring Full Stack Developer | AI & Security Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | AI & ML Enthusiast</h3>
 
 ---
 
