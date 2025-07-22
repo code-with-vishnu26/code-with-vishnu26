@@ -191,8 +191,17 @@ mindmap
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Image -->
-  <img src="https://raw.githubusercontent.com/code-with-vishnu26/code-with-vishnu26/main/github-metrics.png" width="512" height="48" alt="GitHub Stats Badges"/>
+  <!-- Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=VIEWS&color=gold&style=for-the-badge" alt="views"/>
+
+  <!-- Stars Badge -->
+  <img src="https://img.shields.io/github/stars/code-with-vishnu26?label=STARS&color=green&style=for-the-badge" alt="stars"/>
+
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/code-with-vishnu26?label=FOLLOW&color=blue&style=for-the-badge" alt="followers"/>
+
+  <!-- Visitors Badge (static alternative to views, optional) -->
+  <img src="https://img.shields.io/badge/VISITORS-80K%2B-purple?style=for-the-badge" alt="visitors"/>
 </p>
 
 
