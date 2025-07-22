@@ -186,11 +186,15 @@ mindmap
 ---
 
 <p align="center">
+  <!-- Live Visitor Count Badge -->
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/code-with-vishnu26/code-with-vishnu26/main/github-metrics.png" width="460" height="46" alt="GitHub Stats Badges"/>
+  <!-- GitHub Stats Image -->
+  <img src="https://raw.githubusercontent.com/code-with-vishnu26/code-with-vishnu26/main/github-metrics.png" width="512" height="48" alt="GitHub Stats Badges"/>
 </p>
+
 
 
 <div align="center">
