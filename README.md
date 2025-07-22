@@ -188,6 +188,10 @@ mindmap
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-vishnu26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/code-with-vishnu26/code-with-vishnu26/main/github-metrics.png" width="460" height="46" alt="GitHub Stats Badges"/>
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
