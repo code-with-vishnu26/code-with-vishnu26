@@ -109,11 +109,11 @@ mindmap
 
 - **🔐 AI in Cyber Security Threat Detection**  
   Phishing detection using ML analyzing 50+ threat indicators  
-  [GitHub Repo](https://github.com/code-with-vishnu26/Applicative-project--SEM-6.git)
+  [GitHub Repo](https://github.com/code-with-vishnu26/Applicative-project--SEM-6-.git)
 
 - **🔒 Secure Password Management Using Blockchain**  
   Private key storage, end-to-end encryption, smart contracts  
-  [GitHub Repo](https://github.com/code-with-vishnu26/Applicative-Project-SEM-5.git)
+  [GitHub Repo](https://github.com/code-with-vishnu26/-Applicative-Project-SEM-5-.git)
 
 - **🌐 Full-Stack Template (Next.js + Express/NestJS)**  
   SSR, Docker-based deployment, socket.io & JWT auth  
@@ -121,7 +121,7 @@ mindmap
 
 - **🛡 Web Vulnerability Scanner**  
   80+ security tests automated with tools like Nmap, Nikto  
-  [GitHub Repo](https://github.com/code-with-vishnu26/Web-Vulnerability-Scanner.git)
+  [GitHub Repo](https://github.com/code-with-vishnu26/Web-Vulnerability-Scanner.git )
 
 ---
 
@@ -173,10 +173,10 @@ mindmap
   <a href="https://www.linkedin.com/in/vishnu-jillala" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://leetcode.com/u/awF0BgtB6E/" title="LeetCode">
+  <a href="https://leetcode.com/u/code-with-vishnu26/" title="LeetCode">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40" />
   </a>
-  <a href="https://github.com/code-with-vishnu26?tab=repositories" title="GitHub">
+  <a href="https://github.com/code-with-vishnu26" title="GitHub">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40" />
   </a>
 </p>
