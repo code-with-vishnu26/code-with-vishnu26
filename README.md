@@ -67,13 +67,10 @@ Every challenge pushes me further — from building 3D e-commerce sites to deplo
 mindmap
   root((TECH))
     AI & Machine Learning
-      Data Analysis:::whiteBox
-      Computer Vision:::whiteBox
-      Deep Learning:::whiteBox
-      Natural Language Processing:::whiteBox
-    Cybersecurity
-      End-to-End Encryption:::whiteBox
-classDef whiteBox fill:#ffffff,color:#000,stroke:#999
+      Data Analysis
+      Computer Vision
+      Deep Learning
+      Natural Language Processing
     IoT & Embedded Systems
       ESP32 Microcontroller
       Wi-Fi Direct
